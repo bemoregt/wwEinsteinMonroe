@@ -19,5 +19,8 @@ Hybrid Imaging from two faces using Goenframeworks &amp; ofxCv
 - XCode 10.12.x
 - OSX Mojave
 
-
+### Next Plan
+- Hair colors are different and eyes postion is not same.
+- Image selection for hybrid is my fail )-:
+- face position matching(little easy).
 
