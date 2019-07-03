@@ -1,7 +1,7 @@
 # ofxEinsteinMonroe
 Hybrid Imaging from two faces using Goenframeworks &amp; ofxCv
 
-![Hybrid example](  "Hybrid")
+![Hybrid example]( https://github.com/bemoregt/ofxEinsteinMonroe/blob/master/test.png "Hybrid")
 
 ### Algorithm
 - Spatial Domain LPF & HPF
