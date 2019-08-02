@@ -1,4 +1,4 @@
-# ofxEinsteinMonroe
+# wwEinsteinMonroe
 Hybrid Imaging from two faces using Openframeworks &amp; ofxCv
 
 ![Hybrid example]( https://github.com/bemoregt/ofxEinsteinMonroe/blob/master/test.png "Hybrid")
